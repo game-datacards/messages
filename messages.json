@@ -1,0 +1,13 @@
+{
+  "lastMessageId": 1,
+  "messages": [
+    {
+      "id": 1,
+      "title": "Hello world!",
+      "body": "Hello world!",
+      "severity": "info",
+      "author": "John Doe",
+      "timestamp": 1234567890
+    }
+  ]
+}
