@@ -1,13 +1,13 @@
 {
-  "lastMessageId": 1,
+  "lastMessageId": 0,
   "messages": [
     {
-      "id": 1,
-      "title": "Hello world!",
-      "body": "Hello world!",
+      "id": 0,
+      "title": "Service Message",
+      "body": "Service messages are now enabled.",
       "severity": "info",
-      "author": "John Doe",
-      "timestamp": 1234567890
+      "author": "RP",
+      "timestamp": 1702634385
     }
   ]
 }
