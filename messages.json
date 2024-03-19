@@ -2,12 +2,12 @@
   "lastMessageId": 1,
   "messages": [
     {
-      "id": 1,
-      "title": "Hello world!",
-      "body": "Hello world!",
+      "id": 2,
+      "title": "Datasources updated",
+      "body": "We have carefully gone over all datasources for Warhammer 10th edition and should now be up to date with the latest releases.",
       "severity": "info",
-      "author": "John Doe",
-      "timestamp": 1234567890
+      "author": "Shinobau",
+      "timestamp": 1710849646
     }
   ]
 }
