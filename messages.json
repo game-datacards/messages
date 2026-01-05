@@ -1,5 +1,5 @@
 {
-  "lastMessageId": 0,
+  "lastMessageId": 1,
   "messages": [
     {
       "id": 0,
@@ -8,6 +8,14 @@
       "severity": "info",
       "author": "RP",
       "timestamp": 1702634385
+    },
+    {
+      "id": 1,
+      "title": "Migration Notice",
+      "body": "We are switching DNS servers and hosting providers. This may cause some downtime during the transition. We apologize for any inconvenience.",
+      "severity": "warning",
+      "author": "System",
+      "timestamp": 1736092800
     }
   ]
 }
