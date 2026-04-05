@@ -7,7 +7,8 @@
       "body": "We are switching DNS servers and hosting providers. This may cause some downtime during the transition. We apologize for any inconvenience.",
       "severity": "warning",
       "author": "Shinobau",
-      "timestamp": 1736092800
+      "timestamp": 1736092800,
+      "active": false
     }
   ]
 }
